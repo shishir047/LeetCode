@@ -4,7 +4,7 @@ class Solution {
         int i,j, sum = 0;
         ArrayList<Integer> wealthList = new ArrayList<Integer>();
         for (i=0; i<accounts.length; i++){
-            for(j=0 ; j<accounts[i].length; j++){
+            for(j=0 ; j<accounts[i].length;   j++){
                 sum = sum + accounts[i][j];
                 continue;
             }
