@@ -5,7 +5,7 @@ class Solution {
             target[i] = Integer.MIN_VALUE;
         }
         for(int i=0; i<nums.length; i++){
-            if(target[index[i]]==Integer.MIN_VALUE){
+            if(target[index[i]]==Integer.MIN_VALUE){ 
                 target[index[i]] = nums[i];
             }else{
                 for(int j = target.length-1; j > index[i]; j--) {
