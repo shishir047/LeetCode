@@ -26,7 +26,7 @@ class Solution {
              if(equal(new1Matrix, target)){ 
                 return true;
             } else{
-                   for (int i = 0; i < matrix.length; i++) {
+                   for (int i = 0; i < matrix.length; i++) { 
                     for (int j = 0; j < matrix.length; j++) {
                         newMatrix[i][j] = new1Matrix[j][i];
                     }
