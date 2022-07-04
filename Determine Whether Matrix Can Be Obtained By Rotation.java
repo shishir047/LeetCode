@@ -23,7 +23,7 @@ class Solution {
                 }
             }
 
-             if(equal(new1Matrix, target)){
+             if(equal(new1Matrix, target)){ 
                 return true;
             } else{
                    for (int i = 0; i < matrix.length; i++) {
