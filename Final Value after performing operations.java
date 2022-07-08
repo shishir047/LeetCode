@@ -11,7 +11,7 @@ class Solution {
                                     break;
                     case "++X":     x++;
                                     break;
-                    case "X++":     x++;
+                    case "X++":     x++; 
                                     break;
             }
         }
