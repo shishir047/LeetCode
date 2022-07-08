@@ -8,7 +8,7 @@ class Solution {
                     case "--X":     --x;
                                     break;
                     case "X--":     x--;
-                                    break;
+                                    break; 
                     case "++X":     x++;
                                     break;
                     case "X++":     x++; 
