@@ -2,7 +2,7 @@ class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
         int[] target = new int[nums.length];
         for(int i=0; i<nums.length; i++){  
-            target[i] = Integer.MIN_VALUE;
+            target[i] = Integer.MIN_VALUE; 
         }  
         for(int i=0; i<nums.length; i++){
             if(target[index[i]]==Integer.MIN_VALUE){ 
