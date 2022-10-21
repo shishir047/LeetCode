@@ -7,7 +7,7 @@ class Solution {
 
             try {
                 if (nums[i] == nums[i + 1]) {
-                    flag++;
+                    flag++; 
                     continue;
                 }
             } catch (ArrayIndexOutOfBoundsException e) {
