@@ -14,7 +14,7 @@ class Solution {
                 for (int j = 0; j < matrix.length; j++) {
                     newMatrix[i][j] = matrix[j][i];
                 }
-            }  
+            }   
 
             
             for (int i = 0; i < newMatrix.length; i++) {
