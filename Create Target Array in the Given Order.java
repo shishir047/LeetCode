@@ -12,7 +12,7 @@ class Solution {
                     target[j] = target[j - 1];
                 } 
                 target[index[i]] = nums[i]; 
-
+ 
             }
         }
 
