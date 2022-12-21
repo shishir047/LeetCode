@@ -8,7 +8,7 @@ class Main {
         int array[] = {3,1,2,10,1}; // Output: [1,3,6,10]
         System.out.println(Arrays.toString(main.runningSum(array)));
     }
-
+ 
     public int[] runningSum(int[] nums) {
         int[] arr = new int[nums.length];
         int sum=0;
