@@ -8,7 +8,7 @@ class Solution {
             if(target[index[i]]==Integer.MIN_VALUE){ 
                 target[index[i]] = nums[i];
             }else{
-                for(int j = target.length-1; j > index[i]; j--) {
+                for(int j = target.length-1; j > index[i]; j--) { 
                     target[j] = target[j - 1];
                 } 
                 target[index[i]] = nums[i]; 
