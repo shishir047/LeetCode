@@ -9,7 +9,7 @@ class Solution {
                 continue;
             }
             wealthList.add(sum);
-            sum = 0;
+            sum = 0; 
         }
         
         Integer[] worth = wealthList.toArray(new Integer[0]);
