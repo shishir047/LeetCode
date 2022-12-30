@@ -9,7 +9,7 @@ class Solution {
                 a=len;  
                 break; 
             }else{ 
-            
+             
                  if(nums[i]==i){
                         continue;
                     }else{
