@@ -7,7 +7,7 @@ class Solution {
         for(int i=0; i<len; i++){
             if(i==(len-1) && nums[i]==i){
                 a=len;  
-                break; 
+                break;  
             }else{ 
              
                  if(nums[i]==i){
