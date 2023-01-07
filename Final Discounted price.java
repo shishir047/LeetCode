@@ -13,7 +13,7 @@ class Main {
 
         int[] fPrice = new int[prices.length];
         for(int i=0; i< prices.length ; i++){
-            if(i==prices.length-1){
+            if(i==prices.length-1){ 
                 fPrice[i] = prices[i];
             }
             for(int j=i+1; j< prices.length ; j++){
