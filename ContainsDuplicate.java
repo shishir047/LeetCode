@@ -5,6 +5,6 @@ the Core Promotions Infrastructure team that works for clients like Gucci and Ni
 Due to my work on machinearning in Sopra Steria, I was  recently invited by my univesity’s n to y a lecture to students on the “of Machine Learning”.  Till now, my experience has been very exciting. These experiences have helped me understand the core elements of machine learning; but, I want to further hone my ML and Analytical skills to resolve bigger issues. Therefore, I want to join the Michigan Technological University to pursue an MS in Computer Science and Machine Learning. After my graduation, I want to work on the complicated issues faced by huge marketplace firms as I find them to be very intriguing. 
 I believe that studying algothms courses taught by pro Haveelp me dive deep into ML and can better equip me to resolve bigger and difficult issues in prediction and classification. Also, the analysis work was carried out by professor Timothy C. Havens in “Machine Learning” is very exciting and I am looking forward to working with him if given a chance. I am sure that I will be able to not nly get pleasure from my stay at the Michigan Technological University however also grow professionally and personally.
 =  
-   
+    
  
     
