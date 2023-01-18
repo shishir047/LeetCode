@@ -7,7 +7,7 @@ class Solution {
                 if(Character.isWhitespace(sentences[i].charAt(j))){
                     words++; 
                 } 
-            }
+            } 
             max = Math.max(max,words+1);
         } 
         return max;
