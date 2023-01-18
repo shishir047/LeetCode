@@ -9,7 +9,7 @@ class Solution {
                 } 
             }
             max = Math.max(max,words+1);
-        }
+        } 
         return max;
     }
 }
