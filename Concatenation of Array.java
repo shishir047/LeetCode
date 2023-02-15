@@ -5,7 +5,7 @@ class Solution {
             ans[i] = nums[i]; 
             ans[j] = nums[i]; 
             j++;  
-        }     
+        }      
         return ans;
  
     }
