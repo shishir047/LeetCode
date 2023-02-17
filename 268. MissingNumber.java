@@ -4,7 +4,7 @@ class Solution {
         int flag=0;
         int a=0;
         Arrays.sort(nums);
-        for(int i=0; i<len; i++){
+        for(int i=0; i<len; i++){ 
             if(i==(len-1) && nums[i]==i){  
                 a=len;    
                 break;   
