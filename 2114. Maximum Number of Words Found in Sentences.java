@@ -8,7 +8,7 @@ class Solution {
                     words++; 
                 }  
             } 
-            max = Math.max(max,words+1);
+            max = Math.max(max,words+1); 
         } 
         return max;
     }
