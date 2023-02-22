@@ -5,7 +5,7 @@ class Solution {
         for (i=0; i<operations.length; i++){
             String op = operations[i];
             switch (op) {
-                    case "--X":     --x;
+                    case "--X":     --x; 
                                     break;
                     case "X--":     x--;
                                     break; 
