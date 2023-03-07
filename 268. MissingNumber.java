@@ -10,7 +10,7 @@ class Solution {
                 break;    
             }else{ 
              
-                 if(nums[i]==i){ 
+                 if(nums[i]==i){  
                         continue;
                     }else{
                         a=i;
