@@ -1,7 +1,7 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int len = nums.length;
-        int flag=0;
+        int flag=0; 
         int a=0;
         Arrays.sort(nums);
         for(int i=0; i<len; i++){ 
