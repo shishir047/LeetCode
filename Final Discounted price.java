@@ -17,7 +17,7 @@ class Main {
                 fPrice[i] = prices[i];
             }
             for(int j=i+1; j< prices.length ; j++){
-
+ 
                 if(prices[j]<=prices[i]){
                     fPrice[i] = prices[i]-prices[j];
                     break;
