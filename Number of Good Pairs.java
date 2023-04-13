@@ -5,7 +5,7 @@ public int numIdenticalPairs(int[] nums) {
                 if(i<j && nums[i]==nums[j]){
                     flag++;
                 }
-            }
+            } 
         }
     return flag;
     }
