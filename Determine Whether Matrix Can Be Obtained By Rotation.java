@@ -7,7 +7,7 @@ class Solution {
             int[][] new1Matrix = new int[matrix.length][matrix.length];
         if(equal(matrix,target)){
        return true;
-        }else{ 
+        }else{  
             
          
             for (int i = 0; i < matrix.length; i++) {
